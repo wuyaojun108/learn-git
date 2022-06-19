@@ -6,6 +6,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         Utils.println("Hello World");
         Utils.println("Hello World2");
-        Utils.println("Hello World feature_3");
+        Utils.println("Hello World feature_2");
     }
 }
